@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class BattleTank : ModuleRules
+public class BatlleTank : ModuleRules
 {
-	public BattleTank(ReadOnlyTargetRules Target) : base(Target)
+	public BatlleTank(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
